@@ -1,6 +1,8 @@
 
 # RH_MAN
 
+![Demonstração do RH_MAN](/public/rh.gif)
+
 Projeto desenvolvido com Laravel 11 para gerenciamento de recursos humanos (RH). Este sistema inclui funcionalidades como autenticação, autorização, gerenciamento de colaboradores, controle de salários e datas de admissão.
 
 ## Tecnologias e Conhecimentos Utilizados
